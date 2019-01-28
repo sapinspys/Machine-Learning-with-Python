@@ -8,7 +8,7 @@ __*[Python for Data Science and Machine Learning Bootcamp, Pierian Data](https:/
 
 ## Introduction
 
-###What is machine learning?
+### I. What is machine learning?
 
 ![Machine-Learning-Process](imgs/MLP-Pierian.png)
 
@@ -22,7 +22,7 @@ Like a well-oiled statician, a machine learning algorithm applies statistical le
 
 __*[A visual introduction to machine learning by R2D3](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/?lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BR9B4rGtnTmSrw4DAoezDjQ%3D%3D)*__.
 
-###3 Main Types of Machine Learning Algorithms
+### II. 3 Main Types of Machine Learning Algorithms
 
 **Supervised learning** algorithms are trained using **labeled** data, or data with an assigned "tag", "label", or "class" that gives it desirable meaning. This labeled data is often expensive and usually obtained by asking humans to make judgements about unlabeled data. __*[Source](https://stackoverflow.com/questions/19170603/what-is-the-difference-between-labeled-and-unlabeled-data)*__.
 
@@ -40,7 +40,7 @@ Last but definitely not least, think sophisticated Skinner Box.
 
 **Reinforcement learning** algorithms learn through trial and error, discovering which actions yield the greatest reward.
 
-###print('Machine Learning with Python')
+### III. print('Machine Learning with Python')
 
 ![Machine-Learning-plus-Python](imgs/ML+Python.png)
 __*[Source](https://medium.com/@powersteh/an-introduction-to-applied-machine-learning-with-multiple-linear-regression-and-python-925c1d97a02b)*__.
