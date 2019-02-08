@@ -53,6 +53,12 @@ One library in particular, **scikit-learn**, will be the first topic of focus in
 
 **NOTE:** To avoid any frustration, please ensure you are familiar with the fundamentals of programming with Python as well as the __*[SciPy library stack](https://www.scipy.org/)*__ before continuing. 
 
+This repository was created primarily using __*[Anaconda Distribution](https://docs.anaconda.com/_downloads/Anaconda_Starter_Guide_CheatSheet.pdf)*__. To properly view .ipynb files found in this repository, use __*[Jupyter Notebook](https://jupyter.org/install)*__.
+
+## Getting Started
+
+
+
 
 
 
