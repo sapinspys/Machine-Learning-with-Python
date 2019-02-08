@@ -45,6 +45,17 @@ Last but definitely not least, think sophisticated Skinner Box.
 ![Machine-Learning-plus-Python](imgs/ML+Python.png)
 __*[Source](https://medium.com/@powersteh/an-introduction-to-applied-machine-learning-with-multiple-linear-regression-and-python-925c1d97a02b)*__.
 
+**Python** is a programming language identifiable by its simple syntax and rich open-source library collection. These traits have led the language to become a sort of jack-of-all trades language that boasts an active developer community and a handful of very popular machine learning and artificial intelligence libraries. 
+
+Its minimal syntax allows for the user to focus more on implementing algorithms, scripts, experimentation, and prototyping and less on debugging.
+
+One library in particular, **scikit-learn**, will be the first topic of focus in this deep dive into machine learning with Python.
+
+**NOTE:** To avoid any frustration, please ensure you are familiar with the fundamentals of programming with Python as well as the __*[SciPy library stack](https://www.scipy.org/)*__ before continuing. 
+
+
+
+
 
 
 
