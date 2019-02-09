@@ -49,14 +49,15 @@ __*[Source](https://medium.com/@powersteh/an-introduction-to-applied-machine-lea
 
 Its minimal syntax allows for the user to focus more on implementing algorithms, scripts, experimentation, and prototyping and less on debugging.
 
-One library in particular, **scikit-learn**, will be the first topic of focus in this deep dive into machine learning with Python.
+One module in particular, **Scikit-Learn**, will be the first topic of focus in this deep dive into machine learning with Python.
+
+Scikit-Learn allows for the integration of many well known machine learning algorithms for supervised and unsupervised problems. The module uses the Numpy library as the base data structure,allowing for seamless integration with other scientific Python libraries. __*[Scikit-learn: Machine Learning in Python](http://www.jmlr.org/papers/volume12/pedregosa11a/pedregosa11a.pdf)*__.
+
+Thanks to this module, machine learning has become widely accessible to non-specialists globally.
 
 **NOTE:** To avoid any frustration, please ensure you are familiar with the fundamentals of programming with Python as well as the __*[SciPy library stack](https://www.scipy.org/)*__ before continuing. 
 
 This repository was created primarily using __*[Anaconda Distribution](https://docs.anaconda.com/_downloads/Anaconda_Starter_Guide_CheatSheet.pdf)*__. To properly view .ipynb files found in this repository, use __*[Jupyter Notebook](https://jupyter.org/install)*__.
-
-## Getting Started
-
 
 
 
